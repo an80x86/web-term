@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
 /.pnp
 .pnp.js
+=======
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+>>>>>>> 971dbadf048f095dc410e8b169d9fba877d79873
 
 # testing
 /coverage
@@ -18,9 +25,12 @@
 .env.test.local
 .env.production.local
 
+<<<<<<< HEAD
 yarn.lock
 package-lock.json
 
+=======
+>>>>>>> 971dbadf048f095dc410e8b169d9fba877d79873
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*

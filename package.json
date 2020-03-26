@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "web-term",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,18 @@
     "axios": "^0.19.2",
     "react-cookies": "^0.1.1",
     "react-redux": "^5.0.7",
+=======
+  "name": "redux-thunk-project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "react": "^16.4.2",
+    "react-cookies": "^0.1.1",
+    "react-dom": "^16.4.2",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.5",
+>>>>>>> 971dbadf048f095dc410e8b169d9fba877d79873
     "reactstrap": "^8.4.1",
     "redux": "^4.0.0",
     "redux-thunk": "^2.3.0",
@@ -20,6 +33,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+<<<<<<< HEAD
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -37,5 +51,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+=======
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+>>>>>>> 971dbadf048f095dc410e8b169d9fba877d79873
   }
 }
